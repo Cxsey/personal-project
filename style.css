@@ -34,11 +34,16 @@ li {
 
 .logo{
   width: 80px;
+   position: absolute;
+  right:420px;
 
 }
 
 .nav-links{
   padding: 28px 0;
+  position: static;
 }
 
-
+.background{
+  color: blue;
+}
