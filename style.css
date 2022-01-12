@@ -1,0 +1,44 @@
+header {
+  background-color: white;
+  border-bottom: 1px solid white;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+}
+
+
+
+ul {
+argin: 30px auto;
+  padding: 0 20px;
+ 
+}
+  
+li {
+  color: black;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 80px;  
+}
+
+
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+} 
+
+.logo{
+  width: 80px;
+
+}
+
+.nav-links{
+  padding: 28px 0;
+}
+
+
