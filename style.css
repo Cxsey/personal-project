@@ -42,15 +42,21 @@
   background-color: #04AA6D;
   color: white;
 
-  fun {
-    text-align: center;
-    font-size:36px;
+  
+  
+  max {
+text-align: center;
+
+
   }
 
-img {
-            float: left; 
-            margin: 5px;
-        }
-        fun {
-            text-align: justify;
-            font-size: 25px;
+  .image{
+  position: absolute;
+  right:300px;
+
+  lvl {
+text-align    
+
+
+  }
+  
